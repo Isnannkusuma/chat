@@ -3,4 +3,4 @@ nltk
 tensorflow
 fastapi
 uvicorn[standard]
-gunicor
+gunicorn
